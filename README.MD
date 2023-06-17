@@ -15,9 +15,11 @@ git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/pativadan/Dockerfiles.git
 git push -u origin master
+### or 
+git add .; git commit —M "commit sample"; git push origin master
 
-$ git config user.name "pativadan"
-$ git config user.email "pativadan@gmail.com
+git config user.name "pativadan"
+git config user.email "pativadan@gmail.com
 ;;;;;;;;;;;;;;;;;
 ### from putty 
 
