@@ -6,7 +6,7 @@ Docker will give us simple syntex to create our own Images
 File Name should be "Dockerfile"
 
 
-#### Push our code to Git hub
+#### Push our code to Git hub from VS code
 Go to Terminal -> GIT BASH in VS code
 Cd Dockerfile\
 git init
@@ -16,6 +16,8 @@ git branch -M master
 git remote add origin https://github.com/pativadan/Dockerfiles.git
 git push -u origin master
 
+$ git config user.name "pativadan"
+$ git config user.email "pativadan@gmail.com
 ;;;;;;;;;;;;;;;;;
 ### from putty 
 
