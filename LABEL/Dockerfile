@@ -1,3 +1,4 @@
 FROM almalinux
 LABEL AUTHOR="Narendra" \
-      COURSE="Docker"
+      COURSE="Docker" \
+      DURATION="24HRS"
