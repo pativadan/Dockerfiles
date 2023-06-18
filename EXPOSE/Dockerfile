@@ -1,3 +1,3 @@
 FROM almalinux
-EXPOSE port 80/tcp
+EXPOSE 80/tcp
 
