@@ -23,6 +23,7 @@ git config user.email "pativadan@gmail.com
 ;;;;;;;;;;;;;;;;;
 ### from putty 
 
+sudo yum install git -y
  git clone  https://github.com/pativadan/Dockerfiles.git
  cd Dockerfiles
  cd FROM
